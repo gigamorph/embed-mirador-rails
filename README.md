@@ -1,24 +1,9 @@
-# README
+## Initial setup
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Doesn't need to be repeated because these are the steps taken to create this source code.
 
-Things you may want to cover:
+```bash
+rails new mirador-on-rails-experiment
+bundle exec rails webpacker:install
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
